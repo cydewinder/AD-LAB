@@ -11,10 +11,14 @@
             "id": "96b41b049884c377",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "test/test1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test1"
             }
           }
         ]
@@ -180,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d86259cadc4d360",
+  "active": "96b41b049884c377",
   "lastOpenFiles": [
+    "test/test1.md",
+    "test",
     "AD-LAB/New-LabADUsers.ps1",
     "AD-LAB",
     "AD LAB",
