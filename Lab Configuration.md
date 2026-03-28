@@ -1,3 +1,4 @@
+# Lab Configuration
 ______
 - dc1 : 10.10.10.105
 - dc2 : secondary domain controller
