@@ -1,5 +1,8 @@
 # Lab Configuration
 ______
+## Domain
+- lab.local
+## Workstations
 - dc1 : 10.10.10.105
 - dc2 : secondary domain controller
 - file1 : network file server (HR share and Operations share)
